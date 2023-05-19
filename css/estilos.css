@@ -1,0 +1,29 @@
+body{
+	position: relative;
+width: 1519px;
+height: 1024px;
+background-color: #FFF;
+
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.cabecalho {
+	position: absolute;
+width: 1519.2px;
+height: 78px;
+left: 0px;
+top: 0px;
+
+background: #747474;
+}
+
+.indice {
+	position: absolute;
+	
+left: 45px;
+top: 15px;
+}
